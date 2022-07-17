@@ -6,4 +6,4 @@
 
 - The project deals with drawing up typical customer portraits, analyzing the factors that impact churn most and predicting the probability of churn for each customer. 
 
-- For that matter, it includes with building graphs and heatmaps, examining distributions, building prediction models and creating clusters.
+- For that matter, it includes examining distributions, building graphs and a correlation matrix, and creating prediction models and clusters.
